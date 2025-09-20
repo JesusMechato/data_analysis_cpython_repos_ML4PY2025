@@ -39,3 +39,4 @@ plt.gca().invert_yaxis()
 plt.savefig("cpython_top_10_developers.png",dpi = 300)
 plt.show()
 
+# Esta linea es agregada en un notebook de kaggle
